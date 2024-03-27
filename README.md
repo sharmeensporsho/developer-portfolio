@@ -8,7 +8,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](http://localhost:3001/).
 
 ---
 
@@ -59,7 +59,7 @@ git --version
 To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
 
 ```
-git clone https://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
+git clone https://github.com/<sharmeensporsho>/developer-portfolio.git
 
 cd developer-portfolio
 ```
@@ -96,27 +96,27 @@ NEXT_PUBLIC_EMAILJS_TEMPLATE_ID =
 NEXT_PUBLIC_EMAILJS_PUBLIC_KEY =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/sharmeensporsho/developer-portfolio/tree/main/utils/data).
 
 Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
-  profile: "/profile.png",
-  designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "...",
+  name: "SHARMEEN HOSSAIN",
+  profile: '/profile.png',
+  designation: "Software Developer",
+  description: "My name is SHARMEEN HOSSAIN. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
+  email: 'sharmeensporsho@gmail.com',
+  phone: '+8801711-075385',
+  address: 'House No:07,Block-B,Konapara Main Road,Jatrabari,Dhaka,Bangladesh', 
+  github: 'https://github.com/sharmeensporsho',
+  facebook: 'https://www.facebook.com/AayatSporsho/',
+  linkedIn: 'https://www.linkedin.com/in/sharmeensporsho/',
+  twitter: 'https://twitter.com/sharmeenchuti',
+  stackOverflow: 'https://stackoverflow.com/users/sharmeensporsho',
+  leetcode: "https://leetcode.com/sharmeensporsho/",
+  devUsername: "https://dev.to/sharmeensporsho",
+  resume: "https://sharmeensporsho.github.io/MY-CV/"
 };
 ```
 
