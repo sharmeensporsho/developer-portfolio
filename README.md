@@ -8,7 +8,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](http://localhost:3001/).
+## View live preview [here](https://sharmeenhossain.netlify.app/).
 
 ---
 
@@ -80,7 +80,7 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [https://sharmeenhossain.netlify.app/](https://sharmeenhossain.netlify.app/) with your browser to see the result.
 
 ---
 
