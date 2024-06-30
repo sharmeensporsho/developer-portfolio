@@ -1,7 +1,5 @@
 export const contactsData = {
-    email: 'sharmeensporsho@gmail.com',
-    phone: '+8801711-075385',
-    address: 'House No:07,Block-B,Konapara Main Road,Jatrabari,Dhaka,Bangladesh', 
+    email: 'sharmeensporsho@gmail.com', 
     github: 'https://github.com/sharmeensporsho',
     facebook: 'https://www.facebook.com/AayatSporsho/',
     linkedIn: 'https://www.linkedin.com/in/sharmeensporsho/',
